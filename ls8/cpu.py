@@ -101,4 +101,4 @@ class CPU:
                 self.running = False
 
             else:
-                print(f"Unknown instruction {inst}")
+                print(f"Unknown instruction {ir}")
